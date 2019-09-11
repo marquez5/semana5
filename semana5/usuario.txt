@@ -1,0 +1,6 @@
+{"nombre":"Luciana","apellido":"Marquez"}
+{"nombre":"juan","apellido":"perez"}
+{"nombre":"Lucas","apellido":"Gonzalez"}
+{"nombre":"Luciana","apellido":"Marquez"}
+{"nombre":"juan","apellido":"martinez"}
+{"nombre":"pedro","apellido":"keli"}
